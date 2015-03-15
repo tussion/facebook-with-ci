@@ -1,0 +1,1 @@
+create sample facebook application over CI framework
